@@ -1,5 +1,5 @@
 'use strict';
-
+//comment for integration
 describe('account', function () {
   describe('AccountController', function() {
     beforeEach(module('lvmApp'));

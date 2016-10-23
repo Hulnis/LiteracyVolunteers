@@ -9,8 +9,6 @@ module.exports = function(config) {
             './lib/**.js',
             '../../app/protected/js/**.js',
             '../../app/protected/js/**/*.js',
-            '../../app/public/js/**.js',
-            '../../app/public/js/**/*.js',
             './**/*.js'
         ],
 

@@ -4,12 +4,7 @@ module.exports = function(config) {
     config.set({
 
         files: [
-            './lib/angular.js',
-            './lib/angular-mocks.js',
-            './lib/**.js',
-            '../../app/protected/js/**.js',
-            '../../app/protected/js/**/*.js',
-            './**/*.js'
+            
         ],
 
         client: {
